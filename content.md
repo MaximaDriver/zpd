@@ -1,8 +1,10 @@
 ### Izveidot number guessiing speli ar Python programmesanas valodu
 
-### Saturs
+### Dokumenta saturs
 
 ### 1.APrakstit speli
+Interesanta spele kas attista logiku.
+
 ### 2. Speles logika
 dators nejauši ģenerē skaitli no 1 - 100 
 
@@ -44,6 +46,5 @@ while repeat:
         else:
                 repeat = False
                 print("Paldies par spēli sigma")
+```
 
-
-### 3. un ttl.
