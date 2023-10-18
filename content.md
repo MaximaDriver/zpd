@@ -5,6 +5,7 @@
 ### 1.APrakstit speli
 ### 2. Speles logika
 dators nejauši ģenerē skaitli no 1 - 100 
+
 spēles loģika ir crazy
 ```py
 import random
